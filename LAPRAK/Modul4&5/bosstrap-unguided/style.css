@@ -81,3 +81,19 @@ section{
     border-radius:30px;
     padding:12px 30px;
 }
+
+/* GitHub Link */
+
+.github{
+    font-family:"Courier New", Courier, monospace;
+    font-size:18px;
+}
+
+.github a{
+    color:white;
+    text-decoration:none;
+}
+
+.github a:hover{
+    text-decoration:underline;
+}
