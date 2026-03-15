@@ -1,0 +1,57 @@
+p.example {
+    font-family: Arial;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    color: blue;
+}
+
+ul.listsatu {
+    background-color: tomato;
+    margin: 10px 5px 10px 5px;
+    list-style-type: lower-alpha;
+    list-style-position: inside;
+}
+
+ol.listdua {
+    background-color: lightblue;
+    list-style-type: lower-roman;
+    padding: 5px 5px 15px 15px;
+    list-style-position: inside;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+}
+
+h3 {
+    text-align: right;
+}
+
+body {
+    background-color: HSL(20%,40%,70%);
+}
+
+#teks {
+    color: #2F3CDF;
+}
+
+input.text-field {
+    background-color: rgba(32,55,122,0.5);
+}
+
+.section1 {
+    background-color: lightgrey;
+    padding: 10px 5px 10px 5px;
+}
+
+.mark {
+    background-color: tomato;
+    font-style: italic;
+    font-weight: bold;
+    padding: 10px;
+}
